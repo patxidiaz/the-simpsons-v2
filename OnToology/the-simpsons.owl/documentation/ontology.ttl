@@ -8,7 +8,7 @@
 
 <http://www.semanticweb.org/patxidiaz/ontologies/2022/2/the-simpsons> rdf:type owl:Ontology ;
                                                                        <http://purl.org/dc/terms/license> "http://purl.org/NET/rdflicense/cc-by4.0" ;
-                                                                       rdfs:comment "The Simpsons ontology describes the characters their relationships in \"The Simpsons\" cartoon series. Created by Patxi Díaz." .
+                                                                       rdfs:comment "The Simpsons ontology describes the characters their relationships in \"The Simpsons\" cartoon series.  Created by Patxi Díaz." .
 
 #################################################################
 #    Annotation properties
