@@ -1,6 +1,6 @@
 <http://www.semanticweb.org/patxidiaz/ontologies/2022/2/the-simpsons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
 <http://www.semanticweb.org/patxidiaz/ontologies/2022/2/the-simpsons> <http://purl.org/dc/terms/license> "http://purl.org/NET/rdflicense/cc-by4.0" .
-<http://www.semanticweb.org/patxidiaz/ontologies/2022/2/the-simpsons> <http://www.w3.org/2000/01/rdf-schema#comment> "The Simpsons ontology describes the characters their relationships in \"The Simpsons\" cartoon series. Created by Patxi Díaz." .
+<http://www.semanticweb.org/patxidiaz/ontologies/2022/2/the-simpsons> <http://www.w3.org/2000/01/rdf-schema#comment> "The Simpsons ontology describes the characters their relationships in \"The Simpsons\" cartoon series.  Created by Patxi Díaz." .
 # 
 # 
 # #################################################################
